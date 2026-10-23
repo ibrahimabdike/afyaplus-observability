@@ -1,0 +1,3 @@
+model,avg_rouge_l,avg_bleu_4,avg_token_f1,avg_judge,avg_correctness,avg_groundedness,avg_relevance,avg_helpfulness
+gpt-4o,0.0867,0.0051,0.0911,4.6,4.3333,4.3333,5.0,4.6667
+gpt-4o-mini,0.0636,0.003,0.0824,4.6,4.3333,4.3333,5.0,4.6667

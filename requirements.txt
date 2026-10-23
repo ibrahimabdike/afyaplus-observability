@@ -1,0 +1,12 @@
+evidently==0.7.21
+fastapi==0.141.1
+langchain_core==1.6.1
+langchain_openai==1.6.0
+langchain_openrouter==0.2.8
+nltk==3.10.0
+numpy==2.5.2
+pandas==3.0.5
+prometheus_client==0.25.0
+python-dotenv==1.2.3
+rouge_score==0.1.2
+uvicorn==0.52.4

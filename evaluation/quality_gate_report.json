@@ -1,0 +1,53 @@
+{
+  "model_passes": {
+    "gpt-4o-mini": false,
+    "gpt-4o": false
+  },
+  "model_gates": {
+    "gpt-4o-mini": {
+      "rouge_l": {
+        "value": 0.064,
+        "threshold": 0.25,
+        "status": "FAIL"
+      },
+      "judge_overall": {
+        "value": 4.6,
+        "threshold": 3.0,
+        "status": "PASS"
+      },
+      "groundedness": {
+        "value": 4.333,
+        "threshold": 2.5,
+        "status": "PASS"
+      },
+      "correctness": {
+        "value": 4.333,
+        "threshold": 3.0,
+        "status": "PASS"
+      }
+    },
+    "gpt-4o": {
+      "rouge_l": {
+        "value": 0.087,
+        "threshold": 0.25,
+        "status": "FAIL"
+      },
+      "judge_overall": {
+        "value": 4.6,
+        "threshold": 3.0,
+        "status": "PASS"
+      },
+      "groundedness": {
+        "value": 4.333,
+        "threshold": 2.5,
+        "status": "PASS"
+      },
+      "correctness": {
+        "value": 4.333,
+        "threshold": 3.0,
+        "status": "PASS"
+      }
+    }
+  },
+  "timestamp": "2026-08-30T11:52:32.661874"
+}
